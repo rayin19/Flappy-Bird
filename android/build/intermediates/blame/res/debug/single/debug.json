@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flappy_bird_icon.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-xxhdpi\\flappy_bird_icon.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flappy_bird_icon.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-hdpi\\flappy_bird_icon.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flappy_bird_icon.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-xxxhdpi\\flappy_bird_icon.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flappy_bird_icon.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-xhdpi\\flappy_bird_icon.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flappy_bird_icon.png.flat",
+        "source": "E:\\Final_Apps\\Android_game_apps\\FlappyDemo\\android\\res\\drawable-mdpi\\flappy_bird_icon.png"
+    }
+]
