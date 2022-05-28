@@ -1,2 +1,10 @@
-# Flappy-Bird-Android-Studio
-Flappy Bird Game Designed in Android Studio using LibGDX and also works for Desktop. Language used: Java
+# Flappy Bird
+
+***Language:*** Java <br />
+***Library:*** LibGDX <br />
+***Software/IDE:*** Android Studio <br />
+
+***Summary*** <br />
+ Flappy Bird Game Simulated which can be played across multiple devices. 
+
+
